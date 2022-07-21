@@ -2,7 +2,14 @@
 Automate Infrastructure on Any Cloud
 
 ## common
-- [ ] terraform init
-- [ ] terraform plan
-- [ ] terraform apply
-- [ ] terraform destroy
+- [ ] resource
+- [ ] module
+- [ ] variable
+- [ ] output
+- [ ] data
+
+## command
+- [ ] init
+- [ ] plan
+- [ ] apply
+- [ ] destroy
